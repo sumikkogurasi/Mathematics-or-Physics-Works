@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mandelbrot set
-  m_Shader: {fileID: 4800000, guid: 011211d764920f8458f566b85df0240e, type: 3}
+  m_Name: Barnsley fern
+  m_Shader: {fileID: 4800000, guid: bb2808dfc7482ca4882540781bb34898, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -56,7 +56,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Angle: -0.09999996
+    - _Angle: 0
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
@@ -74,6 +74,6 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Area: {r: -1.2569898, g: 0.032285012, b: 0.0041620936, a: 0.0023411775}
+    - _Area: {r: -0.99999905, g: 0, b: 1.9999981, a: 1.1249989}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
